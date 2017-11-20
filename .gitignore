@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# Apple folder stub
+.DS_Store
